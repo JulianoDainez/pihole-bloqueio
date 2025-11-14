@@ -1,6 +1,5 @@
 (^|\.)remotedesktop\.google\.com$
 (^|\.)talkgadget\.google\.com$
-(^|\.)wvd\.microsoft\.com$
 (^|\.)uvnc\.com$
 (^|\.)tightvnc\.net$
 (^|\.)realvnc\.net$
