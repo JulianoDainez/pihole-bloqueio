@@ -1,9 +1,7 @@
 # Chrome Remote Desktop
 remotedesktop.google.com
 talkgadget.google.com
-# Microsoft Remote Desktop
-rdweb.wvd.microsoft.com
-client.wvd.microsoft.com
+
 # UltraVNC
 uvnc.com
 # TightVNC
